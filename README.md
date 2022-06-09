@@ -1,2 +1,6 @@
-# mouse_auto_move
-The movement of the mouse when you moved away. In order for the screen not to be blocked and your activity to be visible, even if you have not moved away for a long time.
+# Mouse random auto move
+Случайное движение мыши, когда вы отошли.<br>
+Для того, чтобы экран не блокировался и ваша активность была видна. Запустите данное приложение и ваша мышка будет в движении.
+# EN
+Random mouse movement when you moved away.<br>
+To ensure that the screen is not blocked and your activity is visible. Launch this application and your mouse will be in motion.
